@@ -6,3 +6,4 @@ https://docs.google.com/document/d/e/2PACX-1vSOgwdz9-vpBDwh3Epr3fdjzGyMWB1GHNT4H
 
 and Here:
 https://github.com/garadraw/solana_bootcamp/blob/main/exercise1_smart_contract.md
+https://github.com/garadraw/solana_bootcamp/blob/main/exercise2_token_contract.md
