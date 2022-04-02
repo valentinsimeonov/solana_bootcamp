@@ -1,4 +1,4 @@
-# solana_bootcamp from chainlink
+# Solana Bootcamp from Chainlink
 
 
 **Exercices can Be Found Here:
