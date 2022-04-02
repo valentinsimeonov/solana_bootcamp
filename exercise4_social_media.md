@@ -2,6 +2,10 @@
 
 **In this exercise we will create, deploy and interact with a solana program that stores and retrieves social media posts or blogs on-chain, using the Anchor framework**
 
+Link for the Exercise:
+https://docs.google.com/document/d/e/2PACX-1vTm2gQPzKGtoZtTeXJGw6ux69gKDrAtiC8qD6GqWTQwfLaokAv9nnTgnGaniHOOLTZoKosRy0FgvGVy/pub
+
+
 Initiating the project
 
 The first step is to initiate a new project using the Anchor CLI. Ensuring you are in the folder that you want your exercise folder created, enter the following command into the terminal. It will create the necessary folders and files for your Anchor project. Once created, ensure you can see the folder structure in your VS Code folder explorer. In this example we enter ‘cd ../..’ first to go back two folders, as we were still in the app folder of our previous exercise:

@@ -2,6 +2,10 @@
 
 In this exercise we will create, deploy and interact with a solana program that takes your name as an input, and simply outputs a message to the program output. This exercise is exactly the same as the first exercise from day 1, except this time we will use Anchor. This exercise will teach you about the basics of using Anchor in your Solana smart contracts.
 
+
+Link for the Exercise:
+https://docs.google.com/document/d/e/2PACX-1vTm2gQPzKGtoZtTeXJGw6ux69gKDrAtiC8qD6GqWTQwfLaokAv9nnTgnGaniHOOLTZoKosRy0FgvGVy/pub
+
 Installing Anchor and Initiating the project
 First step is to check if you have Anchor installed. Run the following command and see if you get back some meaningful output or not:
 
